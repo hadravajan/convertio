@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertio", "Convertio\Convertio.csproj", "{9F4B3B1A-3E3E-4B8B-9B0E-1D6B8F5C2A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertio.Tests", "Convertio.Tests\Convertio.Tests.csproj", "{DD2666EA-05CD-4878-8BAE-9F55977CB0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4B3B1A-3E3E-4B8B-9B0E-1D6B8F5C2A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4B3B1A-3E3E-4B8B-9B0E-1D6B8F5C2A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4B3B1A-3E3E-4B8B-9B0E-1D6B8F5C2A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4B3B1A-3E3E-4B8B-9B0E-1D6B8F5C2A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2666EA-05CD-4878-8BAE-9F55977CB0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2666EA-05CD-4878-8BAE-9F55977CB0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2666EA-05CD-4878-8BAE-9F55977CB0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2666EA-05CD-4878-8BAE-9F55977CB0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
